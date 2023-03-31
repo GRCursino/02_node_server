@@ -1,3 +1,20 @@
+# Node server
+
+A aplicação é sobre um servidor node para registro de transações bancárias utilizando Knex.js como query builder para manipulação de banco de dados relacional SQLite. 
+
+Foi utilizado typescript para desenvolvimento, vitest e supertest para testes da aplicação.
+
+Aplicação desenvolvida através do Ignite da Rocketseat, módulo Node.
+
+## Tecnologias utilizadas?
+
+- Typescript
+- Knex.js
+- SQlite
+- Vitest
+- Supertest
+- Tsup
+
 # RF
 
 - [x] O usuário deve poder criar uma nova transação;
